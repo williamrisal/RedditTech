@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "jeremy-thomas-E0AHdsENmDg-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "jeremy-thomas-E0AHdsENmDg-unsplash-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "jeremy-thomas-E0AHdsENmDg-unsplash-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

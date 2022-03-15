@@ -1,0 +1,6 @@
+framework module Pods_ReddiTechTests {
+  umbrella header "Pods-ReddiTechTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
